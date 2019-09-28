@@ -81,5 +81,5 @@ h1 {
     clear: both;
     background: #666666;
     border-top: 8px solid #4aaaa5;
-    position: relative; 
+    position: static; 
 }
