@@ -5,12 +5,11 @@
   border-color: #cccccc;
 }
 
-
 ul {
   list-style-type: none;
-  position: absolute;
+  position: fixed;
   background-color: #fff;
-  margin-left: 500px;
+  margin-left: 700px;
   margin-top: 5px;
 }
 
@@ -49,11 +48,8 @@ h1 {
   display: inline-block;
 }
 
-p {
-color: #777777;
-padding: 10px;
-margin-bottom: 30px;
-background-color: #ffffff;
+.Tara {
+  margin-top: -100px;
 }
 
 h2 {
@@ -61,8 +57,19 @@ h2 {
   background-color: #ffffff;
   padding: 30px;
   border-bottom: 2px solid #cccccc;
+  margin-top: 10px;
   clear: both;
+  font-family: Georgia, 'Times New Roman', Times, serif;  
 }
+
+p {
+  color: #777777;
+  padding: px;
+  margin-bottom: 30px;
+  background-color: #ffffff;
+  text-align: left;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  }
 
 .cross {
   text-align: center;
@@ -137,4 +144,5 @@ footer {
   border-top: 8px solid #4aaaa5;
   color: white;
   text-align: center;
+  font-family: Georgia, 'Times New Roman', Times, serif;
 }
